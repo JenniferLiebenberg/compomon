@@ -17,3 +17,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/JenniferLiebenberg/compomon
+BugReports: https://github.com/JenniferLiebenberg/compomon/issues
