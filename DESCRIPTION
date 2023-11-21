@@ -1,0 +1,19 @@
+Package: compomon
+Title: MULTIVARIATE STATISTICAL PROCESS MONITORING of COMPOAITIONAL DATA
+Version: 0.0.0.9000
+Authors@R: 
+    person("Jennifer", "Liebenberg", , "jenniferleighconn@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-3811-4957"))
+Description: Computes the biplot properties proposed by Aitchison & Greenacre (2002) and calculates monitoring statistics and variable contributions for log-transformed compositions in PCA-reduced dimensions.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    expm,
+    factoextra,
+    stats
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr

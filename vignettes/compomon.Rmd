@@ -1,0 +1,19 @@
+---
+title: "Compositional biplot properties"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Compositional biplot properties}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(compomon)
+```
