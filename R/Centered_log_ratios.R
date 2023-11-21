@@ -1,4 +1,4 @@
-#' Title
+#' Centered log-ratio
 #'
 #' @param dat
 #'
