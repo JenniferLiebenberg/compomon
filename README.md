@@ -4,22 +4,14 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of compomon is to ...
+Computes the biplot properties proposed by Aitchison & Greenacre (2002) and calculates monitoring statistics and variable contributions for log-transformed compositions in PCA-reduced dimensions.
 
 ## Installation
 
 You can install the development version of compomon like so:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+install_github("JenniferLiebenberg/compomon")
 ```
 
-## Example
-
-This is a basic example which shows you how to solve a common problem:
-
-``` r
-library(compomon)
-## basic example code
-```
 
