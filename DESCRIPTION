@@ -1,5 +1,5 @@
 Package: compomon
-Title: MULTIVARIATE STATISTICAL PROCESS MONITORING of COMPOAITIONAL DATA
+Title: MULTIVARIATE STATISTICAL PROCESS MONITORING of COMPOSITIONAL DATA
 Version: 0.0.0.9000
 Authors@R: 
     person("Jennifer", "Liebenberg", , "jenniferleighconn@gmail.com", role = c("aut", "cre"),
